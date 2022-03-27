@@ -1,4 +1,4 @@
-# CRUD-api-users maked with FASTAPI framework
+# API implementation for a user CRUD maked with FASTAPI framework
  a api for users CRUD, this api are connect to a service of mysql that service is found local
  thus te conecction is make localy
  
