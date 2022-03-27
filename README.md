@@ -1,5 +1,5 @@
 # CRUD-api-users
- a api for users CRUD, this api are conecte to a service of mysql that service is found local
+ a api for users CRUD, this api are connect to a service of mysql that service is found local
  thus te conecction is make localy
  
  # info 
